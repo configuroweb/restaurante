@@ -1,17 +1,15 @@
-# Food-Ordering-System
-Restaurante | ConfiguroWeb is a web application that manages the restaurant menu order between waiter and chef.
+# Aplicación Restaurante
+Restaurante | ConfiguroWeb es una aplicación web que gestiona el orden del menú del restaurante entre el perfil mesero y el chef.
 
-## Login Details
-For admin:
-"admin"
-"password"
+## Acceso Admin
+Usuario "admin"
+Contraseña "1234abcd.."
 
-For staff:
-check database
-
+Para ver los empleados:
+Busca en la BD
 
 
 
-### Notes
-1. This is not ready for production.
-2. All staff created have same default password : abc123
+
+### Nota
+All staff created have same default password : 1234abcd..
